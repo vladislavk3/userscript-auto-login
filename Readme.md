@@ -2,8 +2,6 @@
 
 This is a userscript that assist the login to spcific site
 
-Please read `Readme.txt` file at first.
-
 ## How to use
 
 Git clone, or [download](https://github.com/vladislavk3/userscript-auto-login/archive/master.zip) and extract zip file.
