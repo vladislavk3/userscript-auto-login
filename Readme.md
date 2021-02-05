@@ -11,4 +11,7 @@ Git clone, or [download](https://github.com/vladislavk3/userscript-auto-login/ar
 - Go to `Dashboard` page on tampermonkey.
 - Go to `Utilities` tab.
 - Click `Choose File` inside import on Zip section.
-- Import `auto_login_script.zip` file and enable it.
+- Import `auto-login-script.zip` file and enable it.
+
+### Guide
+Please check `guide.mp4` file.
